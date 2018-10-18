@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 its cool
+=======
+1231
+>>>>>>> Stashed changes
