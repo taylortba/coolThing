@@ -4,3 +4,5 @@ console.log(a)
 
 
 var c=3;
+
+var b=2;
