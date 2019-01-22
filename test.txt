@@ -17,4 +17,10 @@ its cool
 7777
 =======
 >>>>>>> 8faf0b4eb4a3410edb62492d9aa66267419367c5
+<<<<<<< Updated upstream
 >>>>>>> 4d1bce9e4b7f1d127521cbacac841d24e1cd7aa9
+=======
+
+
+123
+>>>>>>> Stashed changes
