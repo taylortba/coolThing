@@ -23,5 +23,10 @@ its cool
 3335
 >>>>>>> 012c15549806e7ea7c99f7bd92e8fbd9ec49ae09
 
+<<<<<<< Updated upstream
 
 test111
+=======
+123213
+test210
+>>>>>>> Stashed changes
